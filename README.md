@@ -1,7 +1,11 @@
 # Human2Cyborg
 I try to create GAN's model for image-image translation of human face photo to cyborg face photo
 
-For this problem because deep learning GAN such as CylceGAN and UGATIT need lot of data image for model to be able have good learning, i use DCGAN to generate cyborg image photo, but unfortunately the image generation by model dont have variety
+For this problem because deep learning GAN such as CylceGAN and UGATIT need lot of data image for model to be able have good learning, i use DCGAN to generate cyborg image photo, please see below picture created by DCGAN model.
+
+![alt Generator image](https://github.com/MilenioScience/Human2Cyborg/blob/main/Generate%20cyborg%20image/results/DCGAN_result.png)
+
+The model can generate pretty good and close as cyborg real image but unfortunately the image generation by model dont have variety
 
 Image-image translation use CycleGAN and UGATIT.
 
